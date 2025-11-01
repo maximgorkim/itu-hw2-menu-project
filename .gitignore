@@ -1,0 +1,13 @@
+# Ignore build files
+build/
+CMakeFiles/
+CMakeCache.txt
+
+# Ignore binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# macOS system files
+.DS_Store
